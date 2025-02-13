@@ -228,7 +228,7 @@
   .sub-heading {
     font-family: var(--ff-2);
     font-size: var(--fs-175);
-    font-weight: var(--fw-medium);
+    font-weight: var(--fw-semibold);
     color: var(--clr-accent);
   }
 
@@ -247,7 +247,7 @@
 
   .header__heading {
     font-size: var(--fs-250);
-    font-weight: var(--fw-regular);
+    font-weight: var(--fw-bold);
     color: var(--clr-stone-900);
   }
 
@@ -264,6 +264,7 @@
 
   .preparation-card__heading {
     font-family: var(--ff-1);
+    font-size: var(--fs-125);
     font-weight: var(--fw-semibold);
     color: var(--clr-rose-800);
   }
